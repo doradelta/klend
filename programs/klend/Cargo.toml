@@ -24,7 +24,6 @@ tracing = ["dep:tracing"]
 serialize_caps_interval_values = []
 
 [dependencies]
-anchor-spl.workspace = true
 solana-program.workspace = true
 solana-security-txt = "1.1.1"
 
